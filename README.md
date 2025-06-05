@@ -12,11 +12,12 @@ Bringing fast, reliable delivery from rural areas to nearby towns — built with
 - Python + JSON Server (for mock backend)
 - HTML/CSS/JS frontend (Live Server ready)
 - GitHub + VS Code
+- Requires `httpx` < 0.28 for API calls
 
 ## 🚀 How to Run It
-1. Clone the repo  
-2. Install dependencies  
-3. Run with `json-server --watch db.json`  
+1. Clone the repo
+2. Install dependencies with `pip install -r requirements.txt` (uses `httpx<0.28`)
+3. Run with `json-server --watch db.json`
 4. Launch frontend via `Live Server`
 
 ## 📜 License
