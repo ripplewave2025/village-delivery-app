@@ -14,10 +14,10 @@ Bringing fast, reliable delivery from rural areas to nearby towns — built with
 - GitHub + VS Code
 
 ## 🚀 How to Run It
-1. Clone the repo  
-2. Install dependencies  
-3. Run with `json-server --watch db.json`  
-4. Launch frontend via `Live Server`
+1. Clone the repo
+2. Install dependencies
+3. Start the mock API with `json-server --watch db.json`
+4. Open `index.html` in your browser (or use Live Server)
 
 ## 📜 License
 Open source — use it, remix it, empower your people.

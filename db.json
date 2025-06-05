@@ -1,0 +1,9 @@
+
+{
+  "vendors": [
+    { "id": 1, "name": "Hari Grocery", "location": "Lamahatta" }
+  ],
+  "orders": [
+    { "id": 1, "vendorId": 1, "item": "Potatoes", "quantity": 5 }
+  ]
+}
